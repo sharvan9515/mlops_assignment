@@ -1,0 +1,9 @@
+MLOps_Assignment_2_Fine_Tuning_Classification.ipynb
+genre_reviews_dict.pickle
+.idea/
+.venv/
+__pycache__/
+*.pyc
+results/
+logs/
+distilbert-reviews-genres/
